@@ -6,4 +6,5 @@ passionate technologist with a keen interest in the convergence of technology, e
 please feel free to reach out using the contact links on my profile below or via email at [osokunbi@umich.edu](mailto:osokunbi@umich.edu)
 
 currently working on something new, excited to share soon :D
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OSokunbi&size_weight=0.5&count_weight=0.5)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OSokunbi&hide_progress=true)
