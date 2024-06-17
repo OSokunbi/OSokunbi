@@ -7,4 +7,5 @@ please feel free to reach out using the contact links on my profile below or via
 
 currently working on something new, excited to share soon :D
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OSokunbi&hide_progress=true)
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
